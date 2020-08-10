@@ -1,4 +1,4 @@
-# AR_detection
+# Facial_key_points_detection
 
 In this repository I showed how to detect eyes, lips, mid point of nose. The dataset is from a competition on kaggel. This kind of model is very useful for AR apps. Like some funny face editor whuch detect the face or head and make some funny character.
 <br>
